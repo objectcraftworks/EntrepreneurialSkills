@@ -1,6 +1,7 @@
 
 # Startup Resources 
 Customer Development, Lean Canvas, Business Model Generation, Value Proposition Design  
+ 
 # Books 
    
 - [Startup Owners Manual](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302/ref=tmm_hrd_rent_sr?_encoding=UTF8&selectObb=rent&qid=&sr=) 
@@ -22,3 +23,9 @@ Customer Development, Lean Canvas, Business Model Generation, Value Proposition 
 |-------------|----------|
 |[CD01 - Death by Powerpoint](https://vimeo.com/76171146)|Danger of assuming you understand customer's problem already|
 |[CD02- Death by Demo](https://vimeo.com/76390080)|Instead, validate your understanding of customer problem and potential solution. Look for acknowledgement|
+|[CD03- Death by Demo](https://vimeo.com/76172223)|Don't start MVP until you understand the customer problem|
+
+
+
+# Value Proposition Canvas
+ - [Introductory video](https://vimeo.com/201197034)
