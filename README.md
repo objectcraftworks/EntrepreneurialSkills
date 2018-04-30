@@ -1,7 +1,8 @@
 
 # Startup Resources 
 Customer Development, Lean Canvas, Business Model Generation, Value Proposition Design  
- 
+Start with [01.md](01.md).
+
 # Books 
    
 - [Startup Owners Manual](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302/ref=tmm_hrd_rent_sr?_encoding=UTF8&selectObb=rent&qid=&sr=) 
